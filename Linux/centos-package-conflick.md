@@ -11,3 +11,7 @@ Preparing...                ########################################### [100%]
 yum -y remove libstdc++-4.4.7-11.el6.i686
 yum -y remove libstdc++-4.4.7-11.el6.x86_64
 ```
+
+- [https://www.howtoing.com/linux-yum-package-management-with-yum-utils]
+- [https://www.howtoing.com/install-epel-and-remi-repository-on-centos-and-redhat]
+- [http://www.voidcn.com/article/p-zmujenao-vc.html]
